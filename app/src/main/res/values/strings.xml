@@ -1,3 +1,48 @@
 <resources>
-    <string name="app_name">SocioInfonavitAndroid</string>
+    <string name="app_name">Socio Infona</string>
+
+
+    <!-- Login Screen -->
+    <string name="user_hint_label">Usuario</string>
+    <string name="psw_hint_label">Contraseña</string>
+    <string name="btn_login_label">Entrar</string>
+    <string name="error_credentials_label">Usuario o contraseña incorrectos</string>
+    <string name="forget_password_label">Olvidé mi contraseña</string>
+
+    <!--Items -->
+    <string name="description_label">Descripción</string>
+
+
+    <!-- Home -->
+    <string name="label_items_1">Beneficios de usar la app</string>
+    <string name="label_items_2">Beneficios al comprar</string>
+    <string name="label_items_3">Mas</string>
+
+    <string name="title_benevits_1">Apple</string>
+    <string name="title_benevits_2">Devlyn</string>
+    <string name="title_benevits_3">Rappi</string>
+    <string name="title_benevits_4">Xbox</string>
+    <string name="title_benevits_5">Adobe</string>
+    <string name="title_benevits_6">DJI"></string>
+    <string name="title_benevits_7">Microsoft</string>
+    <string name="title_benevits_8">Samsung</string>
+
+    <string name="get_product_message">No puedes adquirir este paquete</string>
+    <string name="get_product_button">¡Lo quiero!</string>
+
+    <string name="description_benevits_1">Apple, Inc. (o simplemente Apple) es una empresa tecnológica multinacional con sede en Cupertino, California, Estados Unidos. Es la empresa de tecnologías de la información y la comunicación más grande del mundo por ingresos, con US$391 035 000 000 en 2024. Durante años ha sido la empresa más grande del mundo por capitalización de mercado, hasta que fue superada por NVIDIA en octubre de 2024.</string>
+    <string name="description_benevits_2">Devlyn es el grupo de óptica más grande de México, tiene como objetivo conocer a sus clientes para hacerlos ver bien y al mismo tiempo lograr que puedan ver y sentirse bien con su imagen.</string>
+    <string name="description_benevits_3">Rappi es una compañía multinacional colombiana que actúa como plataforma de intermediación entre varios tipos de usuarios. Fue fundada en Colombia en 2015 por Simón Borrero, Sebastián Mejía y Felipe Villamarín, hoy está presente en nueve países de América Latina (Argentina, Brasil, Chile, Colombia, Costa Rica, Ecuador, México, Perú y Uruguay) y más de 250 ciudades. </string>
+    <string name="description_benevits_4">Xbox es una marca de videojuegos creada por y propiedad de Microsoft que incluye una serie de video-consolas desarrolladas por la misma compañía, de sexta a novena generación, así como aplicaciones (juegos), servicios de streaming y el servicio en línea Xbox Live.</string>
+    <string name="description_benevits_5">Es una empresa de software estadounidense con sede en San José (California, EE. UU.) fundada en diciembre de 1982 por John Warnock y Charles Geschke. Destaca en el mundo del software por sus programas de edición de páginas web, vídeo e imagen digital hoy presentes en una integración conocida como Adobe Creative Cloud o por su programa para ejecutar contenido multimedia Adobe Flash Player</string>
+    <string name="description_benevits_6">DJI es líder de mercado en la industria de los aviones no tripulados civiles, representando más del 70% del mercado mundial de drones.[3]​ Su tecnología de aviones teledirigidos se usó en todo el mundo para la industria de la música, televisiva y de cine, incluidos vídeos musicales K-pop y platós de producciones televisivas nominadas al premio Emmy, como The Amazing Race, American Ninja Warrior, Better Call Saul y Juego de Tronos.</string>
+    <string name="description_benevits_7">Es una empresa tecnológica multinacional con sede en Redmond (Washington), Estados Unidos. Los productos de software más conocidos de la firma son la línea de sistemas operativos Microsoft Windows, el conjunto de aplicaciones de productividad Microsoft 365, el motor de búsqueda Microsoft Bing y el navegador web Microsoft Edge. Sus productos de hardware emblemáticos son las consolas de videojuegos Xbox y la línea de computadoras personales con pantalla táctil Microsoft Surface. Microsoft ocupó el puesto 14 en la clasificación Fortune 500 de 2022 de las corporaciones más grandes de los Estados Unidos por ingresos totales. También ha sido el mayor fabricante de software del mundo por ingresos en 2022. </string>
+    <string name="description_benevits_8">El grupo fue fundado en 1938 por el empresario Lee Byung-chul como una compañía de importación y exportación de productos, que posteriormente expandiría su negocio a otros sectores. </string>
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consng elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor.
+    </string>
+
 </resources>
